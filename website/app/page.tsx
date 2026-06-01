@@ -56,7 +56,7 @@ export default function HomePage() {
             <div className="absolute inset-x-[-1.25rem] bottom-0 top-0 overflow-hidden rounded-[2rem] lg:-right-12 lg:left-[-8%] lg:rounded-none">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
-                src="/images/hero.jpg"
+                src="/images/hero2.jpg"
                 alt="Gentle sleep support for real families — Six & Thriving"
                 className="h-full w-full object-cover object-center opacity-95"
               />

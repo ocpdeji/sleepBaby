@@ -4,11 +4,6 @@ import { useEffect } from 'react';
 import type { Product } from '@/lib/products';
 import { ArrowRightIcon, CheckCircleIcon } from './icons';
 
-/**
- * Loads the Payhip embedded checkout script once. The `payhip-buy-button`
- * class + data-product attribute opens checkout in an overlay
- * (Stripe + PayPal both appear automatically).
- */
 function usePayhip() {
   useEffect(() => {
     if (document.getElementById('payhip-js')) return;
@@ -20,21 +15,47 @@ function usePayhip() {
   }, []);
 }
 
+/** Badge colour: Most Popular = rose/gold feel, Best Value = wine */
+function badgeClass(badge: string) {
+  if (badge === 'Most Popular') {
+    return 'bg-rose text-white';
+  }
+  return 'bg-wine text-white';
+}
+
 export default function ProductCard({ product }: { product: Product }) {
   usePayhip();
+
+  const isMostPopular = product.badge === 'Most Popular';
+  const isBestValue = product.badge === 'Best Value';
 
   return (
     <article
       className={`group relative flex flex-col overflow-hidden rounded-3xl border bg-white/85 shadow-card backdrop-blur transition duration-300 hover:-translate-y-2 hover:shadow-soft ${
-        product.featured ? 'border-rose/40 ring-1 ring-rose/20' : 'border-rose/10 hover:border-rose/30'
+        isBestValue
+          ? 'border-wine/40 ring-1 ring-wine/20'
+          : isMostPopular
+          ? 'border-rose/40 ring-1 ring-rose/20'
+          : 'border-rose/10 hover:border-rose/30'
       }`}
     >
+      {/* Badge */}
       {product.badge && (
-        <span className="absolute right-4 top-4 z-10 rounded-full bg-wine px-3 py-1.5 text-[10px] font-extrabold uppercase tracking-[0.16em] text-white shadow-soft">
+        <span
+          className={`absolute left-4 top-4 z-10 flex items-center gap-1.5 rounded-full px-3 py-1.5 text-[10px] font-extrabold uppercase tracking-[0.16em] shadow-soft ${badgeClass(
+            product.badge
+          )}`}
+        >
+          {isMostPopular && (
+            <svg className="h-3 w-3" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 2l2.9 5.9 6.5.95-4.7 4.6 1.1 6.45L12 17.9l-5.8 3.05 1.1-6.45-4.7-4.6 6.5-.95L12 2.5z" />
+            </svg>
+          )}
           {product.badge}
         </span>
       )}
 
+      {/* Product image */}
       <div className="relative aspect-[4/3] overflow-hidden bg-blush2">
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
@@ -49,6 +70,7 @@ export default function ProductCard({ product }: { product: Product }) {
         <div className="absolute inset-0 bg-gradient-to-t from-wine2/15 to-transparent" />
       </div>
 
+      {/* Card body */}
       <div className="flex flex-1 flex-col p-7">
         <p className="text-[11px] font-extrabold uppercase tracking-[0.2em] text-rose">
           {product.tagline}
@@ -67,6 +89,7 @@ export default function ProductCard({ product }: { product: Product }) {
           ))}
         </ul>
 
+        {/* Price row */}
         <div className="mt-6 flex items-end gap-3">
           <span className="font-serif text-3xl font-semibold text-wine2">
             ${product.price.toFixed(2).replace(/\.00$/, '')}
@@ -74,12 +97,20 @@ export default function ProductCard({ product }: { product: Product }) {
           {product.compareAt && (
             <span className="mb-1 text-sm text-ink/40 line-through">${product.compareAt}</span>
           )}
+          {product.compareAt && (
+            <span className="mb-1 rounded-full bg-blush2 px-2 py-0.5 text-[10px] font-extrabold text-wine">
+              Save ${product.compareAt - Math.round(product.price)}
+            </span>
+          )}
         </div>
 
+        {/* CTA button */}
         <a
           href={product.payhipUrl}
           data-product={product.payhipId}
-          className="payhip-buy-button btn-shine mt-5 inline-flex items-center justify-center gap-2.5 rounded-full bg-wine px-7 py-4 text-xs font-extrabold uppercase tracking-[0.16em] text-white shadow-soft transition hover:-translate-y-0.5 hover:bg-wine2"
+          className={`payhip-buy-button btn-shine mt-5 inline-flex items-center justify-center gap-2.5 rounded-full px-7 py-4 text-xs font-extrabold uppercase tracking-[0.16em] text-white shadow-soft transition hover:-translate-y-0.5 ${
+            isBestValue ? 'bg-wine hover:bg-wine2' : 'bg-rose hover:bg-wine'
+          }`}
         >
           Get the Book
           <ArrowRightIcon className="h-4 w-4" />

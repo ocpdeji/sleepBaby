@@ -37,6 +37,7 @@ export const products: Product[] = [
       'The Six Sleep Personalities — find your baby in 5 minutes',
       '4 bonus tools: checklist, tracker, awake windows, methods',
     ],
+    badge: 'Most Popular',
     image: '/images/products/book.jpg',
   },
   {
