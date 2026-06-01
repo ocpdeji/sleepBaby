@@ -58,7 +58,7 @@ export const products: Product[] = [
     ],
     badge: 'Best Value',
     featured: true,
-    image: '/images/products/bundle.jpg',
+    image: '/images/products/bundle.png',
   },
   {
     slug: 'toddler-bedtime-kit',
@@ -76,7 +76,7 @@ export const products: Product[] = [
       'Scripts for stalls, 2am visits and bad dreams',
       'The OK-to-Wake setup + the 5am wake fix',
     ],
-    image: '/images/products/toddler.jpg',
+    image: '/images/products/toddler.png',
   },
   {
     slug: 'newborn-starter-kit',
@@ -94,7 +94,7 @@ export const products: Product[] = [
       'The simple foundation routine for weeks 3–8',
       'Day vs night signals to set the circadian clock',
     ],
-    image: '/images/products/newborn.jpg',
+    image: '/images/products/newborn.png',
   },
 ];
 

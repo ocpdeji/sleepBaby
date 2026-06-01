@@ -35,7 +35,7 @@ export default function AboutPage() {
             <div className="overflow-hidden rounded-t-full rounded-b-2xl bg-blush p-2.5 shadow-soft">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
-                src="https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=800&q=85"
+                src="/images/kate.jpg"
                 alt="Kate, founder of Six & Thriving"
                 className="aspect-[0.82] w-full rounded-t-full rounded-b-xl object-cover"
               />

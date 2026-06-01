@@ -56,8 +56,8 @@ export default function HomePage() {
             <div className="absolute inset-x-[-1.25rem] bottom-0 top-0 overflow-hidden rounded-[2rem] lg:-right-12 lg:left-[-8%] lg:rounded-none">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
-                src="https://images.unsplash.com/photo-1546015720-b8b30df5aa27?auto=format&fit=crop&w=1400&q=85"
-                alt="Sleeping baby cuddling a soft toy on a cozy cream blanket"
+                src="/images/hero.jpg"
+                alt="Gentle sleep support for real families — Six & Thriving"
                 className="h-full w-full object-cover object-center opacity-95"
               />
               <div className="absolute inset-0 bg-gradient-to-r from-cream via-cream/35 to-transparent lg:from-cream lg:via-cream/10" />
@@ -166,8 +166,8 @@ export default function HomePage() {
             <div className="overflow-hidden rounded-t-full rounded-b-xl bg-blush p-2 shadow-card">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
-                src="https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=700&q=85"
-                alt="Kate, baby sleep support specialist"
+                src="/images/kate.jpg"
+                alt="Kate, baby sleep support specialist and founder of Six & Thriving"
                 className="aspect-[0.82] w-full rounded-t-full rounded-b-lg object-cover"
               />
             </div>
