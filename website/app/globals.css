@@ -1,0 +1,151 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --grain: rgba(110, 58, 66, 0.12);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #fbf7f2;
+  color: #2b2022;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Subtle paper grain overlay */
+.grain {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.22;
+  z-index: 1;
+  background-image: radial-gradient(circle at 1px 1px, var(--grain) 1px, transparent 0);
+  background-size: 22px 22px;
+  mix-blend-mode: multiply;
+}
+
+.soft-vignette {
+  background:
+    radial-gradient(circle at 73% 42%, rgba(244, 229, 223, 0.55), transparent 36%),
+    radial-gradient(circle at 12% 20%, rgba(255, 255, 255, 0.95), transparent 30%),
+    linear-gradient(180deg, #fbf7f2 0%, #fffaf6 48%, #fbf7f2 100%);
+}
+
+/* Shine sweep on primary buttons */
+.btn-shine {
+  position: relative;
+  overflow: hidden;
+}
+.btn-shine::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -120%;
+  width: 70%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.32), transparent);
+  transform: skewX(-18deg);
+  transition: left 0.75s ease;
+}
+.btn-shine:hover::after {
+  left: 130%;
+}
+
+/* Editorial prose for MDX blog posts */
+.prose-editorial {
+  color: #2b2022;
+}
+.prose-editorial h2 {
+  font-family: var(--font-fraunces), Georgia, serif;
+  font-size: 1.9rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: #7b0f2e;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  scroll-margin-top: 6rem;
+}
+.prose-editorial h3 {
+  font-family: var(--font-fraunces), Georgia, serif;
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #951238;
+  margin-top: 1.8rem;
+  margin-bottom: 0.75rem;
+  scroll-margin-top: 6rem;
+}
+.prose-editorial p {
+  font-size: 1.075rem;
+  line-height: 1.85;
+  margin-bottom: 1.25rem;
+  color: rgba(43, 32, 34, 0.85);
+}
+.prose-editorial ul,
+.prose-editorial ol {
+  margin: 1.25rem 0;
+  padding-left: 1.5rem;
+}
+.prose-editorial li {
+  margin-bottom: 0.6rem;
+  line-height: 1.7;
+  color: rgba(43, 32, 34, 0.85);
+}
+.prose-editorial ul li {
+  list-style: none;
+  position: relative;
+}
+.prose-editorial ul li::before {
+  content: '';
+  position: absolute;
+  left: -1.25rem;
+  top: 0.65rem;
+  width: 7px;
+  height: 7px;
+  border-radius: 9999px;
+  background: #b65d68;
+}
+.prose-editorial strong {
+  color: #7b0f2e;
+  font-weight: 700;
+}
+.prose-editorial a {
+  color: #951238;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.prose-editorial blockquote {
+  border-left: 4px solid #b65d68;
+  background: #f9eeea;
+  padding: 1rem 1.5rem;
+  margin: 1.75rem 0;
+  border-radius: 0 0.75rem 0.75rem 0;
+  font-style: italic;
+  color: #6e3a42;
+}
+.prose-editorial table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.75rem 0;
+  font-size: 0.95rem;
+  overflow: hidden;
+  border-radius: 0.75rem;
+  box-shadow: 0 14px 40px rgba(80, 34, 42, 0.08);
+}
+.prose-editorial thead {
+  background: #951238;
+  color: #fff;
+}
+.prose-editorial th,
+.prose-editorial td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid #f4e5df;
+}
+.prose-editorial tbody tr:nth-child(even) {
+  background: #f9eeea;
+}

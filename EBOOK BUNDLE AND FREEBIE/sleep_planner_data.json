@@ -1,0 +1,5800 @@
+{
+  "baby": {
+    "name": "",
+    "dob": "",
+    "age_start": "",
+    "start_date": "",
+    "pediatrician": "",
+    "challenges": "",
+    "personality": -1,
+    "method": -1,
+    "method_reason": "",
+    "promise_signed": false
+  },
+  "weeks": {
+    "1": {
+      "dates": "",
+      "baby_age": "",
+      "weight": "",
+      "method_week": "",
+      "intention": "",
+      "awake": {
+        "Mon": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Tue": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Wed": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Thu": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Fri": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sat": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sun": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        }
+      },
+      "routine": {
+        "steps": {
+          "0": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "1": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "2": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "3": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "4": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "5": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "6": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "7": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "8": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "9": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "10": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "11": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          }
+        },
+        "timing": "",
+        "notes": ""
+      },
+      "nights": {
+        "1": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "2": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "3": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "4": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "5": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "6": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "7": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        }
+      },
+      "method_tracker": {
+        "1": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "2": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "3": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "4": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "5": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "6": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "7": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        }
+      },
+      "checklist": {
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false
+      },
+      "reflection": {
+        "answers": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        "best_night": "",
+        "hardest_night": "",
+        "avg_wakings": "",
+        "avg_settle": "",
+        "longest_stretch": "",
+        "bedtime_avg": "",
+        "morning_avg": "",
+        "next_intention": ""
+      }
+    },
+    "2": {
+      "dates": "",
+      "baby_age": "",
+      "weight": "",
+      "method_week": "",
+      "intention": "",
+      "awake": {
+        "Mon": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Tue": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Wed": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Thu": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Fri": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sat": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sun": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        }
+      },
+      "routine": {
+        "steps": {
+          "0": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "1": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "2": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "3": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "4": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "5": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "6": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "7": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "8": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "9": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "10": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "11": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          }
+        },
+        "timing": "",
+        "notes": ""
+      },
+      "nights": {
+        "1": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "2": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "3": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "4": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "5": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "6": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "7": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        }
+      },
+      "method_tracker": {
+        "1": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "2": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "3": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "4": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "5": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "6": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "7": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        }
+      },
+      "checklist": {
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false
+      },
+      "reflection": {
+        "answers": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        "best_night": "",
+        "hardest_night": "",
+        "avg_wakings": "",
+        "avg_settle": "",
+        "longest_stretch": "",
+        "bedtime_avg": "",
+        "morning_avg": "",
+        "next_intention": ""
+      }
+    },
+    "3": {
+      "dates": "",
+      "baby_age": "",
+      "weight": "",
+      "method_week": "",
+      "intention": "",
+      "awake": {
+        "Mon": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Tue": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Wed": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Thu": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Fri": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sat": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sun": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        }
+      },
+      "routine": {
+        "steps": {
+          "0": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "1": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "2": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "3": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "4": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "5": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "6": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "7": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "8": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "9": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "10": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "11": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          }
+        },
+        "timing": "",
+        "notes": ""
+      },
+      "nights": {
+        "1": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "2": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "3": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "4": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "5": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "6": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "7": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        }
+      },
+      "method_tracker": {
+        "1": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "2": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "3": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "4": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "5": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "6": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "7": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        }
+      },
+      "checklist": {
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false
+      },
+      "reflection": {
+        "answers": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        "best_night": "",
+        "hardest_night": "",
+        "avg_wakings": "",
+        "avg_settle": "",
+        "longest_stretch": "",
+        "bedtime_avg": "",
+        "morning_avg": "",
+        "next_intention": ""
+      }
+    },
+    "4": {
+      "dates": "",
+      "baby_age": "",
+      "weight": "",
+      "method_week": "",
+      "intention": "",
+      "awake": {
+        "Mon": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Tue": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Wed": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Thu": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Fri": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sat": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sun": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        }
+      },
+      "routine": {
+        "steps": {
+          "0": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "1": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "2": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "3": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "4": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "5": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "6": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "7": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "8": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "9": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "10": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "11": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          }
+        },
+        "timing": "",
+        "notes": ""
+      },
+      "nights": {
+        "1": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "2": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "3": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "4": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "5": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "6": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "7": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        }
+      },
+      "method_tracker": {
+        "1": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "2": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "3": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "4": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "5": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "6": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "7": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        }
+      },
+      "checklist": {
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false
+      },
+      "reflection": {
+        "answers": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        "best_night": "",
+        "hardest_night": "",
+        "avg_wakings": "",
+        "avg_settle": "",
+        "longest_stretch": "",
+        "bedtime_avg": "",
+        "morning_avg": "",
+        "next_intention": ""
+      }
+    },
+    "5": {
+      "dates": "",
+      "baby_age": "",
+      "weight": "",
+      "method_week": "",
+      "intention": "",
+      "awake": {
+        "Mon": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Tue": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Wed": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Thu": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Fri": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sat": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sun": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        }
+      },
+      "routine": {
+        "steps": {
+          "0": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "1": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "2": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "3": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "4": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "5": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "6": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "7": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "8": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "9": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "10": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "11": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          }
+        },
+        "timing": "",
+        "notes": ""
+      },
+      "nights": {
+        "1": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "2": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "3": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "4": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "5": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "6": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "7": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        }
+      },
+      "method_tracker": {
+        "1": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "2": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "3": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "4": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "5": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "6": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "7": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        }
+      },
+      "checklist": {
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false
+      },
+      "reflection": {
+        "answers": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        "best_night": "",
+        "hardest_night": "",
+        "avg_wakings": "",
+        "avg_settle": "",
+        "longest_stretch": "",
+        "bedtime_avg": "",
+        "morning_avg": "",
+        "next_intention": ""
+      }
+    },
+    "6": {
+      "dates": "",
+      "baby_age": "",
+      "weight": "",
+      "method_week": "",
+      "intention": "",
+      "awake": {
+        "Mon": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Tue": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Wed": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Thu": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Fri": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sat": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sun": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        }
+      },
+      "routine": {
+        "steps": {
+          "0": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "1": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "2": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "3": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "4": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "5": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "6": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "7": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "8": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "9": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "10": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "11": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          }
+        },
+        "timing": "",
+        "notes": ""
+      },
+      "nights": {
+        "1": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "2": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "3": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "4": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "5": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "6": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "7": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        }
+      },
+      "method_tracker": {
+        "1": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "2": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "3": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "4": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "5": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "6": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "7": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        }
+      },
+      "checklist": {
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false
+      },
+      "reflection": {
+        "answers": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        "best_night": "",
+        "hardest_night": "",
+        "avg_wakings": "",
+        "avg_settle": "",
+        "longest_stretch": "",
+        "bedtime_avg": "",
+        "morning_avg": "",
+        "next_intention": ""
+      }
+    },
+    "7": {
+      "dates": "",
+      "baby_age": "",
+      "weight": "",
+      "method_week": "",
+      "intention": "",
+      "awake": {
+        "Mon": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Tue": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Wed": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Thu": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Fri": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sat": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sun": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        }
+      },
+      "routine": {
+        "steps": {
+          "0": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "1": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "2": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "3": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "4": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "5": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "6": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "7": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "8": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "9": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "10": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "11": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          }
+        },
+        "timing": "",
+        "notes": ""
+      },
+      "nights": {
+        "1": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "2": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "3": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "4": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "5": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "6": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "7": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        }
+      },
+      "method_tracker": {
+        "1": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "2": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "3": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "4": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "5": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "6": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "7": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        }
+      },
+      "checklist": {
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false
+      },
+      "reflection": {
+        "answers": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        "best_night": "",
+        "hardest_night": "",
+        "avg_wakings": "",
+        "avg_settle": "",
+        "longest_stretch": "",
+        "bedtime_avg": "",
+        "morning_avg": "",
+        "next_intention": ""
+      }
+    },
+    "8": {
+      "dates": "",
+      "baby_age": "",
+      "weight": "",
+      "method_week": "",
+      "intention": "",
+      "awake": {
+        "Mon": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Tue": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Wed": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Thu": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Fri": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sat": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sun": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        }
+      },
+      "routine": {
+        "steps": {
+          "0": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "1": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "2": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "3": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "4": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "5": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "6": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "7": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "8": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "9": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "10": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "11": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          }
+        },
+        "timing": "",
+        "notes": ""
+      },
+      "nights": {
+        "1": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "2": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "3": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "4": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "5": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "6": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "7": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        }
+      },
+      "method_tracker": {
+        "1": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "2": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "3": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "4": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "5": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "6": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "7": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        }
+      },
+      "checklist": {
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false
+      },
+      "reflection": {
+        "answers": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        "best_night": "",
+        "hardest_night": "",
+        "avg_wakings": "",
+        "avg_settle": "",
+        "longest_stretch": "",
+        "bedtime_avg": "",
+        "morning_avg": "",
+        "next_intention": ""
+      }
+    },
+    "9": {
+      "dates": "",
+      "baby_age": "",
+      "weight": "",
+      "method_week": "",
+      "intention": "",
+      "awake": {
+        "Mon": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Tue": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Wed": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Thu": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Fri": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sat": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sun": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        }
+      },
+      "routine": {
+        "steps": {
+          "0": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "1": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "2": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "3": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "4": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "5": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "6": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "7": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "8": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "9": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "10": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "11": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          }
+        },
+        "timing": "",
+        "notes": ""
+      },
+      "nights": {
+        "1": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "2": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "3": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "4": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "5": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "6": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "7": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        }
+      },
+      "method_tracker": {
+        "1": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "2": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "3": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "4": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "5": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "6": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "7": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        }
+      },
+      "checklist": {
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false
+      },
+      "reflection": {
+        "answers": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        "best_night": "",
+        "hardest_night": "",
+        "avg_wakings": "",
+        "avg_settle": "",
+        "longest_stretch": "",
+        "bedtime_avg": "",
+        "morning_avg": "",
+        "next_intention": ""
+      }
+    },
+    "10": {
+      "dates": "",
+      "baby_age": "",
+      "weight": "",
+      "method_week": "",
+      "intention": "",
+      "awake": {
+        "Mon": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Tue": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Wed": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Thu": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Fri": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sat": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sun": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        }
+      },
+      "routine": {
+        "steps": {
+          "0": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "1": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "2": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "3": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "4": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "5": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "6": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "7": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "8": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "9": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "10": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "11": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          }
+        },
+        "timing": "",
+        "notes": ""
+      },
+      "nights": {
+        "1": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "2": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "3": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "4": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "5": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "6": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "7": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        }
+      },
+      "method_tracker": {
+        "1": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "2": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "3": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "4": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "5": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "6": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "7": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        }
+      },
+      "checklist": {
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false
+      },
+      "reflection": {
+        "answers": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        "best_night": "",
+        "hardest_night": "",
+        "avg_wakings": "",
+        "avg_settle": "",
+        "longest_stretch": "",
+        "bedtime_avg": "",
+        "morning_avg": "",
+        "next_intention": ""
+      }
+    },
+    "11": {
+      "dates": "",
+      "baby_age": "",
+      "weight": "",
+      "method_week": "",
+      "intention": "",
+      "awake": {
+        "Mon": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Tue": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Wed": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Thu": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Fri": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sat": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sun": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        }
+      },
+      "routine": {
+        "steps": {
+          "0": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "1": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "2": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "3": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "4": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "5": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "6": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "7": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "8": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "9": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "10": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "11": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          }
+        },
+        "timing": "",
+        "notes": ""
+      },
+      "nights": {
+        "1": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "2": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "3": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "4": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "5": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "6": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "7": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        }
+      },
+      "method_tracker": {
+        "1": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "2": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "3": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "4": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "5": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "6": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "7": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        }
+      },
+      "checklist": {
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false
+      },
+      "reflection": {
+        "answers": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        "best_night": "",
+        "hardest_night": "",
+        "avg_wakings": "",
+        "avg_settle": "",
+        "longest_stretch": "",
+        "bedtime_avg": "",
+        "morning_avg": "",
+        "next_intention": ""
+      }
+    },
+    "12": {
+      "dates": "",
+      "baby_age": "",
+      "weight": "",
+      "method_week": "",
+      "intention": "",
+      "awake": {
+        "Mon": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Tue": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Wed": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Thu": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Fri": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sat": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        },
+        "Sun": {
+          "wake": "",
+          "nap1": "",
+          "nap2": "",
+          "nap3": "",
+          "bedtime": "",
+          "settled": "",
+          "actual": "",
+          "notes": ""
+        }
+      },
+      "routine": {
+        "steps": {
+          "0": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "1": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "2": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "3": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "4": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "5": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "6": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "7": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "8": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "9": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "10": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          },
+          "11": {
+            "our_ver": "",
+            "mon": false,
+            "wed": false,
+            "fri": false
+          }
+        },
+        "timing": "",
+        "notes": ""
+      },
+      "nights": {
+        "1": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "2": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "3": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "4": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "5": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "6": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        },
+        "7": {
+          "date": "",
+          "bedtime": "",
+          "fell_asleep": "",
+          "first_wake": "",
+          "total_wakings": "",
+          "morning_wake": "",
+          "wakings": [
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            },
+            {
+              "time": "",
+              "response": "",
+              "back_in": "",
+              "notes": ""
+            }
+          ],
+          "pattern": ""
+        }
+      },
+      "method_tracker": {
+        "1": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "2": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "3": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "4": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "5": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "6": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        },
+        "7": {
+          "method_used": "",
+          "followed": "",
+          "challenge": "",
+          "different": "",
+          "confidence": 0
+        }
+      },
+      "checklist": {
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false
+      },
+      "reflection": {
+        "answers": {
+          "0": "",
+          "1": "",
+          "2": "",
+          "3": "",
+          "4": ""
+        },
+        "best_night": "",
+        "hardest_night": "",
+        "avg_wakings": "",
+        "avg_settle": "",
+        "longest_stretch": "",
+        "bedtime_avg": "",
+        "morning_avg": "",
+        "next_intention": ""
+      }
+    }
+  }
+}

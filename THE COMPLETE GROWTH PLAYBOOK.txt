@@ -1,0 +1,290 @@
+THE COMPLETE GROWTH PLAYBOOK
+Sleep, Baby. Please. — From Zero to Category Leader
+PHASE 1: FIRST 50 SALES (Weeks 1–4)
+1A — FREE TRAFFIC: Facebook Groups (Fastest First Sales)
+This is where your first 10–20 sales will come from. Exhausted moms are already IN these groups asking for help.
+
+Groups to Join TODAY (search these exact names):
+• Gentle Sleep Training Support
+• Baby Sleep Support Group
+• Breastfeeding and Sleep Training
+• Moms of Multiples / Twin Moms
+• First Time Moms [your city/country]
+• Newborn Moms Support Group
+• Toddler Sleep Help
+• Attachment Parenting Sleep Support
+• Working Moms Sleep Solutions
+• Exhausted Parents Club
+Join 10–15 groups. Don't sell on Day 1.
+
+The 7-Day Facebook Group Strategy:
+Day	Action
+Day 1–3	Lurk + engage. Comment helpfully on 5 posts per day. Answer questions with real advice. Build visibility.
+Day 4–5	Share a tip post (not a sales post). Example: "The 3-minute pause changed everything for us. When baby makes a sound at night, wait 3 minutes before going in. Most of the time they resettle." End with: "Happy to share more if anyone wants."
+Day 6	Offer the free cheat sheet. Post: "I made a free baby sleep cheat sheet (wake windows by age + tonight's 6-step plan). DM me if you want it and I'll send the link."
+Day 7+	Repeat the cycle. Helpful comment → tip post → free offer. Never hard-sell in groups.
+Rules:
+❌ Never post "Buy my book!" — you'll get banned
+✅ Always lead with free value first
+✅ DM the cheat sheet link (your landing page) to anyone who asks
+✅ Once they're on your email list, the 5-email sequence does the selling for you
+Expected results:
+10–30 cheat sheet signups per week from groups alone
+2–5 sales per week from the email sequence converting those signups
+1B — FREE TRAFFIC: TikTok (Biggest Growth Potential)
+Post Schedule: 5x per week minimum
+Use Social_Media_Content_Pack.md — you have 30 days of scripts ready.
+
+The Formula That Works:
+HOOK (first 2 seconds) — stop the scroll
+BODY (10–25 seconds) — deliver one insight
+CTA (last 3 seconds) — "Free cheat sheet, link in bio"
+Your Top 10 Hooks (ranked by predicted performance):
+"Nobody talks about Night 3."
+"If you're watching this at 2am, this is for you."
+"I have 6 kids including twins. Every one of them learned to sleep."
+"The mistake I made with all 6 of my babies."
+"Things stealing your baby's sleep tonight."
+"Drowsy but awake is a lie if..."
+"Why your baby wakes every 45 minutes."
+"The 3-minute pause that changes everything."
+"Sleep training is NOT cry-it-out."
+"If you've tried sleep training before and it failed — read this."
+Video Format Options:
+Format	Effort	Performance
+Face to camera (talking head)	Low	Highest trust
+Text overlay on stock video (sleeping baby clips)	Low	Good reach
+Stitch/duet trending sleep advice	Medium	Viral potential
+Before/after (Night 1 vs Night 7 story)	Medium	High saves
+Carousel/slideshow of tips	Low	Good saves
+TikTok Growth Tips:
+Post between 7–9 PM (when exhausted moms are scrolling)
+Use trending sounds (even on talking-head videos)
+Reply to EVERY comment in the first hour
+Pin your best-performing video to your profile
+Bio: Mom of 6 (twins) 💛 Free sleep cheat sheet ↓
+1C — FREE TRAFFIC: Pinterest (Slow Burn, Compounds Forever)
+Pinterest is a search engine, not social media. Pins from Month 1 still drive traffic in Month 12.
+
+Setup (30 minutes):
+Create a Pinterest Business account (free)
+Claim your website (sixandthriving.com)
+Create these boards:
+• Baby Sleep Tips (0–12 months)
+• Newborn Sleep Guide
+• Toddler Bedtime Solutions
+• Breastfeeding & Sleep
+• Sleep Training Methods
+• Baby Awake Windows
+• Exhausted Mom Support
+• Twin Baby Sleep
+What to Pin:
+Turn your existing infographic images into pins. Each pin needs:
+
+Vertical image (1000x1500px — use Canva to resize)
+Title with keywords (e.g., "Baby Awake Windows by Age — Free Printable Chart")
+Description with keywords + CTA
+Link to sixandthriving.com
+Pin Schedule:
+5–10 pins per day (use Tailwind to schedule — $14.99/mo)
+Mix: 70% your content, 30% repins from others in the niche
+Every pin links back to your landing page
+Your Best Pin Ideas (from existing assets):
+Image to use	Pin title
+Awake windows bar chart	"Baby Wake Windows by Age — The Chart Every Mom Needs"
+Traffic light cues	"3 Signs Your Baby Is Overtired (And What To Do)"
+7-night roadmap	"The 7-Night Sleep Training Plan That Actually Works"
+Sleep personalities	"The 6 Baby Sleep Personalities — Which Is Yours?"
+Cover image	"The Baby Sleep Book Written by a Mom of 6 (Including Twins)"
+1D — FREE TRAFFIC: Instagram
+Strategy: Repurpose Everything
+Every TikTok → cross-post as a Reel (within 24 hours)
+Every Pinterest pin → post as a carousel or static post
+Every email tip → turn into a caption
+Instagram-Specific Tactics:
+Stories daily — behind-the-scenes "mom of 6" content
+Highlights: "Sleep Tips", "About Me", "Free Guide", "Reviews"
+Reels: same as TikTok content
+Carousels: educational (use Content Pack Days 6, 13, 20, 25)
+PHASE 2: GETTING REVIEWS (Weeks 2–6)
+Reviews are the #1 conversion driver for digital products. Without them, buyers hesitate.
+
+Strategy 1 — Ask Every Buyer (Automated)
+Set up a post-purchase email in Payhip:
+
+Payhip → Settings → Emails → After Purchase
+Set a follow-up email to send 7 days after purchase
+Subject: "How's sleep going? (Quick question)"
+Body:
+Hi [name],
+
+It's been a week since you got Sleep, Baby. Please.
+
+I'd love to know — has anything shifted? Even a small win counts.
+
+If you have 30 seconds, would you leave a quick review on the product page?
+It helps other exhausted moms find this guide.
+
+→ [Leave a review here](https://payhip.com/b/m62Yx)
+
+And if something ISN'T working — reply to this email. I read every one.
+
+Sleep is coming. 💛
+— Six & Thriving
+Strategy 2 — Give 10 Free Copies for Reviews
+Before you have organic reviews:
+
+Find 10 moms in Facebook groups / Instagram who are struggling with sleep
+DM them: "I just published a baby sleep guide — would you like a free copy in exchange for an honest review?"
+Send them a 100% off Payhip coupon
+Follow up after 7 days asking for the review
+Screenshot their reviews for your landing page
+Strategy 3 — Add Reviews to Your Landing Page
+Once you have 3–5 reviews, add a testimonial section to index.html:
+
+<section class="bg-blush2 py-16">
+  <h2>"What other moms are saying"</h2>
+  <!-- 3-5 review cards with name + quote -->
+</section>
+I can add this section when you have the reviews ready.
+
+PHASE 3: AFFILIATE PROGRAMME (Week 4+)
+Payhip has a built-in affiliate system — free on all plans.
+
+Setup (5 minutes):
+Payhip → Settings → Affiliates
+Enable the affiliate programme
+Set commission: 30% (standard for digital products)
+This means: if someone refers a $19 sale, they earn $5.70
+Who to Recruit as Affiliates:
+Who	Why	How to reach them
+Mom bloggers	They have audiences of exhausted parents	DM on Instagram / email
+Parenting Instagram accounts (5K–50K followers)	Micro-influencers convert better than big ones	DM with free copy + affiliate offer
+Other ebook creators (non-competing)	Cross-promotion	Find them on Etsy/Gumroad
+Your own buyers	They already love the product	Include affiliate link in post-purchase email
+Facebook group admins	They have captive audiences	Offer free copy + 30% commission
+Affiliate Outreach Template:
+Hi [name],
+
+I'm a mom of 6 (including twins) and I just published a baby sleep guide
+called "Sleep, Baby. Please." — it's getting great early reviews.
+
+I'd love to send you a free copy. If you like it, I have a 30% affiliate
+programme — you'd earn $6–12 per sale just by sharing your link.
+
+No pressure either way. Happy to send the PDF if you're interested.
+
+— Six & Thriving
+PHASE 4: BLOG + SEO (Month 2+)
+A blog turns your one-time content into permanent traffic from Google.
+
+The 10 Blog Posts That Will Drive The Most Traffic:
+#	Title (SEO-optimized)	Target keyword
+1	"Baby Awake Windows by Age: The Complete Chart (2026)"	baby awake windows
+2	"The Extinction Burst: Why Night 3 Is the Hardest"	extinction burst sleep training
+3	"Ferber Method Schedule: Day-by-Day Timing Chart"	ferber method schedule
+4	"Can You Sleep Train While Breastfeeding? (Yes — Here's How)"	sleep train while breastfeeding
+5	"Baby Won't Sleep Unless Held: What To Do"	baby won't sleep unless held
+6	"4 Month Sleep Regression: Signs, Duration & How to Survive"	4 month sleep regression
+7	"How to Get Twins on the Same Sleep Schedule"	twins sleep schedule
+8	"Drowsy But Awake: What It Actually Means (And When It Doesn't Work)"	drowsy but awake
+9	"Baby Wakes Every 45 Minutes: The Fix"	baby wakes every 45 minutes
+10	"Sleep Training Methods Compared: Which One Fits Your Family?"	sleep training methods
+Each blog post ends with: "Want the full plan? Get the free cheat sheet →" (links to your signup form)
+
+Blog Setup:
+Add a /blog page to your site (or use a subdomain like blog.sixandthriving.com)
+Write 1 post per week (1,500–2,500 words each)
+Each post targets ONE keyword
+Include your cheat sheet opt-in at the end of every post
+Share each post on Pinterest (3–5 pins per post)
+PHASE 5: FLASH SALES & PROMOTIONS (Monthly)
+Flash Sale Calendar:
+Month	Event	Offer
+Launch week	"Founding price"	$19 (regular $29) — 48 hours
+Month 2	"100 subscribers celebration"	Bundle at $29 (regular $39) — 24 hours
+Month 3	Mother's Day / Father's Day	"Gift a sleeping baby" — 20% off
+Month 4	"Summer sleep reset"	Free bonus PDF with any purchase
+Month 6	"6-month anniversary"	Flash 40% off everything — 12 hours
+Black Friday	Biggest sale of the year	Bundle at $19 (regular $39) — 48 hours
+How to Run a Flash Sale:
+Email your list 24 hours before: "Tomorrow at 9am — 48-hour flash sale"
+Email again when it opens: "It's live — $19 for 48 hours only"
+Post on all socials 3x during the sale
+Email 6 hours before close: "Last chance — price goes back up at midnight"
+Raise price back and email: "The sale is closed. Thank you to everyone who grabbed it."
+PHASE 6: SCALE TO $10K/MONTH (Month 6–12)
+The Math:
+$10,000/month at $25 average order = 400 sales/month
+400 sales ÷ 5% conversion rate = 8,000 visitors/month needed
+
+Sources:
+  • TikTok: 3,000 visitors/month (organic, daily posting)
+  • Pinterest: 2,500 visitors/month (compounding pins)
+  • SEO/Blog: 1,500 visitors/month (10 posts ranking)
+  • Affiliates: 500 visitors/month (5 active affiliates)
+  • Email list: 500 visitors/month (weekly newsletter)
+  = 8,000 visitors/month ✓
+Paid Ads (Month 6+ only, once organic is working):
+Platform	Budget	Target
+Facebook/Instagram Ads	$10–20/day	Lookalike audience of your email list
+Pinterest Promoted Pins	$5–10/day	Target "baby sleep" + "new mom" interests
+Don't run ads until you have:
+
+5+ reviews (social proof)
+A proven conversion rate (>3% on your landing page)
+At least $1,000 in organic revenue first
+DAILY / WEEKLY / MONTHLY ROUTINES
+Daily (20 minutes):
+Post 1 TikTok/Reel
+Comment on 5 posts in Facebook groups
+Reply to all DMs and comments
+Weekly (2 hours):
+Schedule 5–10 Pinterest pins
+Write 1 email to your list (tip or story)
+Check Payhip analytics (sales, views, conversion rate)
+Reach out to 2 potential affiliates
+Monthly (half day):
+Write 1 blog post (SEO-targeted)
+Review what content performed best → make more of that
+Plan next month's flash sale or promotion
+Update landing page with new reviews
+YOUR IMMEDIATE ACTION PLAN (Next 7 Days)
+Day	Action	Time
+Today	Join 10 Facebook groups + post Day 1 TikTok	30 min
+Tomorrow	Comment helpfully on 10 group posts + post Day 2	20 min
+Day 3	Set up Pinterest Business account + create 8 boards	30 min
+Day 4	Create 10 Pinterest pins from existing images (use Canva)	45 min
+Day 5	Offer free cheat sheet in 3 Facebook groups	15 min
+Day 6	DM 5 mom bloggers with affiliate offer	20 min
+Day 7	Review first week's data: signups, opens, clicks	15 min
+THE NON-NEGOTIABLE RULES
+Post every single day. Even when nobody's watching. The algorithm rewards consistency.
+Lead with free value. The cheat sheet is your door opener. The email sequence does the selling.
+Never hard-sell in groups. Help first. Offer second. Sell never (let the funnel do it).
+Reply to everything. Every comment, every DM, every email reply. This is how you build superfans.
+Track your numbers weekly. Email signups, open rate, click rate, sales. Without data, you can't improve.
+Ask for reviews relentlessly. Every buyer should get a review request at Day 7.
+One slip doesn't erase progress. Missed a day of posting? Post tomorrow. Missed a week? Start again Monday.
+TOOLS SUMMARY
+Tool	Purpose	Cost
+Payhip	Sell products	Free (5% per sale)
+MailerLite	Email list + automation	Free (up to 1,000 subs)
+Netlify	Host your landing page	Free
+Canva	Create Pinterest pins + carousels	Free (or $12.99/mo for Pro)
+Tailwind	Schedule Pinterest pins	$14.99/mo
+TikTok	Primary organic traffic	Free
+Instagram	Secondary organic traffic	Free
+Pinterest	Passive compounding traffic	Free
+Google Analytics	Track website visitors	Free
+Total monthly cost at launch: $0–$15
+
+The book is built. The funnel is built. The store is live. The strategy is written.
+
+The only thing left is execution.
+
+Post Day 1 today. Join 10 groups today. Come back in 7 days with your first signup numbers and I'll help you optimize.
+
+Sleep is coming. For your customers — and for your bank account.
+
+— Let's go. 🚀

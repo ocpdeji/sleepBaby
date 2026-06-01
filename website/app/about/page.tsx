@@ -1,0 +1,123 @@
+import Link from 'next/link';
+import type { Metadata } from 'next';
+import CTABanner from '@/components/CTABanner';
+import { ArrowRightIcon, HeartIcon } from '@/components/icons';
+import { site } from '@/lib/site';
+
+export const metadata: Metadata = {
+  title: 'About Kate',
+  description:
+    'Meet Kate — mom of six (including twins) and founder of Six & Thriving. Gentle, no cry-it-out, real-life sleep support for exhausted parents.',
+  alternates: { canonical: `${site.url}/about` },
+};
+
+const philosophy = [
+  {
+    title: 'Gentle, never harsh',
+    body: 'No baby is left to cry alone against your instincts. Every method here keeps connection at the center.',
+  },
+  {
+    title: 'Real life, real flexibility',
+    body: 'Twins, daycare, breastfeeding, single parenting — the plan flexes to your family instead of breaking your spirit.',
+  },
+  {
+    title: 'A plan, not platitudes',
+    body: 'Warm encouragement is lovely, but you need a night-by-night map. You get both.',
+  },
+];
+
+export default function AboutPage() {
+  return (
+    <>
+      <section className="soft-vignette">
+        <div className="mx-auto grid max-w-7xl items-center gap-10 px-5 py-16 sm:px-8 lg:grid-cols-[0.42fr_0.58fr] lg:px-12 lg:py-20">
+          <div className="mx-auto w-full max-w-[400px]">
+            <div className="overflow-hidden rounded-t-full rounded-b-2xl bg-blush p-2.5 shadow-soft">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src="https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=800&q=85"
+                alt="Kate, founder of Six & Thriving"
+                className="aspect-[0.82] w-full rounded-t-full rounded-b-xl object-cover"
+              />
+            </div>
+          </div>
+          <div className="max-w-2xl">
+            <p className="text-xs font-extrabold uppercase tracking-[0.24em] text-rose">
+              Hi, I’m Kate
+            </p>
+            <h1 className="mt-3 font-serif text-5xl font-semibold leading-[1.02] tracking-[-0.03em] text-wine2 sm:text-6xl">
+              Mom of six.
+              <span className="block italic text-rose">Including twins.</span>
+            </h1>
+            <p className="mt-6 text-lg leading-8 text-ink/80">
+              And your sleep support cheerleader. I’ve lived nearly every sleep
+              scenario in these books — and built the system that finally got every
+              one of my babies sleeping.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section className="mx-auto max-w-prose px-5 py-12 sm:px-8">
+        <div className="space-y-6 text-lg leading-8 text-ink/80">
+          <p>
+            I’ve been exactly where you are. Running on empty. Googling sleep advice
+            at 2am while holding a baby who would not be put down. Patting, bouncing
+            and singing through songs I didn’t even know I remembered — and still,
+            no sleep.
+          </p>
+          <p>
+            I’m not a sleep clinic. I don’t have a PhD. I’m the mom who lived through
+            it six times over, including a set of twins tucked in the middle. After
+            years of trial, error and a lot of cold coffee, I learned what actually
+            works — and, just as importantly, what doesn’t.
+          </p>
+          <p>
+            I wrote <em>Sleep, Baby. Please.</em> for the mom who has already Googled
+            everything, tried one thing, watched it fail, and needs an honest, warm,
+            practical plan that meets her where she actually is. At 2am. In the dark.
+          </p>
+          <blockquote className="rounded-2xl border-l-4 border-rose bg-blush2 px-6 py-5 font-serif text-2xl italic text-cocoa">
+            “Every single one of my babies learned to sleep. Every single one. And
+            mine were not easy babies. Yours can too.”
+          </blockquote>
+        </div>
+      </section>
+
+      <section className="bg-blush2/40 py-16">
+        <div className="mx-auto max-w-7xl px-5 sm:px-8 lg:px-12">
+          <div className="mx-auto max-w-2xl text-center">
+            <p className="text-xs font-extrabold uppercase tracking-[0.24em] text-rose">
+              My philosophy
+            </p>
+            <h2 className="mt-3 font-serif text-4xl font-semibold tracking-[-0.03em] text-wine2 sm:text-5xl">
+              Gentle. Flexible. Honest.
+            </h2>
+          </div>
+          <div className="mt-12 grid gap-6 md:grid-cols-3">
+            {philosophy.map((p) => (
+              <div
+                key={p.title}
+                className="rounded-3xl border border-rose/10 bg-white/85 p-8 shadow-card backdrop-blur"
+              >
+                <HeartIcon className="h-7 w-7 text-rose" />
+                <h3 className="mt-4 font-serif text-2xl font-semibold text-wine2">{p.title}</h3>
+                <p className="mt-3 text-sm leading-7 text-ink/70">{p.body}</p>
+              </div>
+            ))}
+          </div>
+          <div className="mt-12 text-center">
+            <Link
+              href="/shop"
+              className="btn-shine inline-flex items-center gap-3 rounded-full bg-wine px-8 py-4 text-xs font-extrabold uppercase tracking-[0.16em] text-white shadow-soft transition hover:-translate-y-0.5 hover:bg-wine2"
+            >
+              See the books <ArrowRightIcon className="h-4 w-4" />
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      <CTABanner />
+    </>
+  );
+}
