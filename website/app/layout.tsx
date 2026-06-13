@@ -6,6 +6,7 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { site } from '@/lib/site';
 import GoogleAnalytics from '@/components/GoogleAnalytics';
+import { Analytics } from '@vercel/analytics/next';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -89,6 +90,7 @@ return (
             strategy="afterInteractive"
           />
         )}
+        <Analytics />
       </body>
     </html>
   );
