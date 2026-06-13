@@ -58,9 +58,23 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   const plausibleDomain = process.env.NEXT_PUBLIC_PLAUSIBLE_DOMAIN;
 
-  return (
-    <html lang="en" className={`${inter.variable} ${fraunces.variable}`}>
-      <body className="bg-cream font-sans antialiased selection:bg-rose selection:text-white">
+return (
+  <html lang="en" className={`${inter.variable} ${fraunces.variable}`}>
+    <head>
+      <Script
+        src="https://www.googletagmanager.com/gtag/js?id=G-YHE0Z88VFL"
+        strategy="afterInteractive"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-YHE0Z88VFL');
+        `}
+      </Script>
+    </head>
+    <body className="bg-cream font-sans antialiased selection:bg-rose selection:text-white">
         <div className="grain" aria-hidden="true" />
         <Navbar />
         <main className="relative z-10">{children}</main>
