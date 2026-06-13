@@ -5,6 +5,7 @@ import './globals.css';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { site } from '@/lib/site';
+import GoogleAnalytics from '@/components/GoogleAnalytics';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -75,6 +76,7 @@ return (
       </Script>
     </head>
     <body className="bg-cream font-sans antialiased selection:bg-rose selection:text-white">
+      <GoogleAnalytics />
         <div className="grain" aria-hidden="true" />
         <Navbar />
         <main className="relative z-10">{children}</main>
