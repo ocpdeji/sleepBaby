@@ -6,6 +6,7 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { site } from '@/lib/site';
 import GoogleAnalytics from '@/components/GoogleAnalytics';
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 const inter = Inter({
   subsets: ['latin'],
@@ -77,6 +78,7 @@ return (
     </head>
     <body className="bg-cream font-sans antialiased selection:bg-rose selection:text-white">
       <GoogleAnalytics />
+      <SpeedInsights />
         <div className="grain" aria-hidden="true" />
         <Navbar />
         <main className="relative z-10">{children}</main>
