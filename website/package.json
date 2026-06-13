@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.45.4",
+    "@vercel/analytics": "^2.0.1",
     "eslint-config-next": "^14.2.35",
     "gray-matter": "^4.0.3",
     "next": "^14.2.35",
