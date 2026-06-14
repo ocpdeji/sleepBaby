@@ -3,6 +3,12 @@
 import { useState, type FormEvent } from 'react';
 import { ArrowRightIcon, CheckCircleIcon, MailIcon, UserIcon } from './icons';
 
+declare global {
+  interface Window {
+    pintrk?: (...args: unknown[]) => void;
+  }
+}
+
 type Variant = 'card' | 'footer' | 'inline';
 
 interface Props {
@@ -42,6 +48,12 @@ export default function EmailSignupForm({
       if (res.ok) {
         setStatus('success');
         form.reset();
+
+        if (typeof window !== 'undefined' && window.pintrk) {
+          window.pintrk('track', 'lead', {
+            lead_type: source,
+          });
+        }
       } else {
         const body = await res.json().catch(() => ({}));
         setMessage(body?.message ?? 'Something went wrong. Please try again.');
