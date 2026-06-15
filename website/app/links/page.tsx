@@ -1,4 +1,6 @@
 import type { Metadata } from 'next';
+import fs from 'node:fs';
+import path from 'node:path';
 
 export const metadata: Metadata = {
   title: 'Six & Thriving | Links',
@@ -84,6 +86,8 @@ const socialLinks = [
 ];
 
 export default function LinksPage() {
+  const hasLogo = fs.existsSync(path.join(process.cwd(), 'public', 'images', 'logo.png'));
+
   return (
     <>
       <style>{`
@@ -519,19 +523,15 @@ export default function LinksPage() {
             <div className="logo-pulse" />
             <div className="logo-pulse-2" />
             <div className="logo-ring">
-              <img
-                src="/images/logo.png"
-                alt="Six & Thriving"
-                className="logo-img"
-                onError={(e) => {
-                  const t = e.currentTarget;
-                  t.style.display = 'none';
-                  const span = document.createElement('span');
-                  span.style.fontSize = '36px';
-                  span.textContent = '🌙';
-                  t.parentElement?.appendChild(span);
-                }}
-               />
+              {hasLogo ? (
+                <img
+                  src="/images/logo.png"
+                  alt="Six & Thriving"
+                  className="logo-img"
+                />
+              ) : (
+                <span style={{ fontSize: 36 }}>🌙</span>
+              )}
             </div>
           </div>
 
