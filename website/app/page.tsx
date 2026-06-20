@@ -84,9 +84,9 @@ export default function HomePage() {
       {/* ───────── SOCIAL PROOF BAR ───────── */}
       <section className="border-y border-rose/10 bg-blush2/60">
         <div className="mx-auto grid max-w-7xl grid-cols-2 gap-6 px-5 py-8 text-center sm:px-8 md:grid-cols-4 lg:px-12">
-          <Stat value="1,000+" label="Exhausted parents helped" />
-          <Stat value="7 nights" label="To the breakthrough" />
-          <Stat value="6 babies" label="Tested across (incl. twins)" />
+          <Stat value="7 nights" label="The complete night-by-night plan" />
+          <Stat value="5 methods" label="You choose what fits your family" />
+          <Stat value="No cry-it-out" label="Gentle from the first night" />
           <Stat value="30 days" label="Money-back guarantee" />
         </div>
       </section>
@@ -177,7 +177,7 @@ export default function HomePage() {
               Meet Kate
             </p>
             <h2 className="mt-3 font-serif text-4xl font-semibold tracking-[-0.03em] text-wine2 sm:text-5xl">
-              Mom of six. Including twins.
+              Mom of 3. And the village it took to figure this out.
             </h2>
             <div className="mt-6 space-y-4 text-base leading-8 text-ink/80">
               <p>
