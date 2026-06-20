@@ -7,7 +7,7 @@ import { site } from '@/lib/site';
 export const metadata: Metadata = {
   title: 'About Kate',
   description:
-    'Meet Kate — mom of six (including twins) and founder of Six & Thriving. Gentle, no cry-it-out, real-life sleep support for exhausted parents.',
+    'Meet Kate — mom of three and founder of Six & Thriving. Gentle, no cry-it-out, real-life sleep support for exhausted parents.',
   alternates: { canonical: `${site.url}/about` },
 };
 
@@ -46,7 +46,7 @@ export default function AboutPage() {
               Hi, I’m Kate
             </p>
             <h1 className="mt-3 font-serif text-5xl font-semibold leading-[1.02] tracking-[-0.03em] text-wine2 sm:text-6xl">
-              Mom of six.
+              Mom of 3.And the village it took to figure this out.
               <span className="block italic text-rose">Including twins.</span>
             </h1>
             <p className="mt-6 text-lg leading-8 text-ink/80">
