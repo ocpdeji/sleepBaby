@@ -28,8 +28,9 @@ export default function ShopPage() {
             The book that gets your baby sleeping
           </h1>
           <p className="mx-auto mt-6 max-w-xl text-lg leading-8 text-ink/75">
-            Written by a mom of six — including twins. Choose the book, the full
-            premium bundle, or the kit built for your stage.
+            Written by a mom who has navigated every sleep stage across more
+            households than she can count. Choose the book, the full premium
+            bundle, or the kit built for your stage.
           </p>
         </div>
       </section>
