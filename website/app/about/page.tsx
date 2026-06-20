@@ -14,15 +14,15 @@ export const metadata: Metadata = {
 const philosophy = [
   {
     title: 'Gentle, never harsh',
-    body: 'No baby is left to cry alone against your instincts. Every method here keeps connection at the center.',
+    body: 'No baby is left to cry alone against your instincts. Every method in these books keeps connection at the centre.',
   },
   {
     title: 'Real life, real flexibility',
-    body: 'Twins, daycare, breastfeeding, single parenting — the plan flexes to your family instead of breaking your spirit.',
+    body: 'Daycare, breastfeeding, single parenting, multiple kids — the plan flexes to your family instead of breaking your spirit.',
   },
   {
     title: 'A plan, not platitudes',
-    body: 'Warm encouragement is lovely, but you need a night-by-night map. You get both.',
+    body: 'Warm encouragement is lovely. But at 2am you need a night-by-night map. You get both.',
   },
 ];
 
@@ -46,14 +46,8 @@ export default function AboutPage() {
               Hi, I’m Kate
             </p>
             <h1 className="mt-3 font-serif text-5xl font-semibold leading-[1.02] tracking-[-0.03em] text-wine2 sm:text-6xl">
-              Mom of 3.And the village it took to figure this out.
-              <span className="block italic text-rose">Including twins.</span>
+              Mom of 3. And the village it took to figure this out.
             </h1>
-            <p className="mt-6 text-lg leading-8 text-ink/80">
-              And your sleep support cheerleader. I’ve lived nearly every sleep
-              scenario in these books — and built the system that finally got every
-              one of my babies sleeping.
-            </p>
           </div>
         </div>
       </section>
@@ -62,24 +56,46 @@ export default function AboutPage() {
         <div className="space-y-6 text-lg leading-8 text-ink/80">
           <p>
             I’ve been exactly where you are. Running on empty. Googling sleep advice
-            at 2am while holding a baby who would not be put down. Patting, bouncing
-            and singing through songs I didn’t even know I remembered — and still,
-            no sleep.
+            at 2am while holding a baby who would not be put down. Patting, rocking,
+            bouncing through songs I didn’t even know I remembered — and still, no
+            sleep.
           </p>
           <p>
-            I’m not a sleep clinic. I don’t have a PhD. I’m the mom who lived through
-            it six times over, including a set of twins tucked in the middle. After
-            years of trial, error and a lot of cold coffee, I learned what actually
-            works — and, just as importantly, what doesn’t.
+            I’m a mom of 3. But over the years I’ve also helped raise children
+            across my extended family — nieces, nephews, cousins — navigating
+            newborn nights, 4-month regressions, and toddler sleep battles across
+            more households than I can count.
+          </p>
+          <p>Baby sleep has been the thread running through all of it.</p>
+          <p>
+            What I kept noticing, across every baby and every household, is that
+            sleep isn’t random. It follows six predictable stages. And once you
+            understand which stage you’re actually in — and what your baby
+            genuinely needs at that stage — everything shifts.
           </p>
           <p>
-            I wrote <em>Sleep, Baby. Please.</em> for the mom who has already Googled
-            everything, tried one thing, watched it fail, and needs an honest, warm,
-            practical plan that meets her where she actually is. At 2am. In the dark.
+            I’m not a sleep clinic. I don’t have a PhD. What I have is years of
+            sitting with exhausted parents at 3am — sometimes in my own home,
+            sometimes at a sister’s, sometimes on the phone talking a family member
+            through a regression they were about to give up on.
           </p>
+          <p>
+            The desperation in those moments is the same no matter whose baby it is.
+          </p>
+          <p>
+            I wrote <em>Sleep, Baby. Please.</em> for the parent who has already
+            Googled everything, tried one thing, watched it fail on Night 3, and
+            needs an honest, warm, practical plan that meets them where they
+            actually are.
+          </p>
+          <p>At 2am. In the dark. Wondering if it ever gets better.</p>
+          <p>It does. And I’m here to help you get there faster.</p>
           <blockquote className="rounded-2xl border-l-4 border-rose bg-blush2 px-6 py-5 font-serif text-2xl italic text-cocoa">
-            “Every single one of my babies learned to sleep. Every single one. And
-            mine were not easy babies. Yours can too.”
+            “Every single baby I’ve helped through this eventually slept. Every
+            single one. And none of them were easy. Yours can too.”
+            <footer className="mt-3 text-base font-sans not-italic font-semibold text-rose">
+              — Kate, Six &amp; Thriving
+            </footer>
           </blockquote>
         </div>
       </section>
