@@ -30,7 +30,7 @@ export const products: Product[] = [
     payhipId: 'm62Yx',
     tagline: 'The complete infant sleep guide',
     description:
-      'The evidence-based 7-night plan that gets your baby sleeping through the night — written by a mom of 6 who has been exactly where you are. 59 pages, 15 chapters, every word built to be used at 2am.',
+      'The evidence-based 7-night plan that gets your baby sleeping through the night — written by a mom who has navigated every sleep stage across more households than she can count. 59 pages, 15 chapters, every word built to be used at 2am.',
     highlights: [
       'The literal night-by-night 7-night plan',
       'The Extinction Burst — what nobody tells you about Night 3',
