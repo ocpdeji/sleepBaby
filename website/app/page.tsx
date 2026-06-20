@@ -1,12 +1,11 @@
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import ProductCard from '@/components/ProductCard';
-import TestimonialCard from '@/components/TestimonialCard';
 import FAQAccordion from '@/components/FAQAccordion';
 import EmailSignupForm from '@/components/EmailSignupForm';
 import { ArrowRightIcon, CheckCircleIcon, HeartIcon } from '@/components/icons';
 import { products } from '@/lib/products';
-import { testimonials, homeFaqs, howItWorks } from '@/lib/content';
+import { homeFaqs, howItWorks } from '@/lib/content';
 import { site } from '@/lib/site';
 
 export const metadata: Metadata = {
@@ -14,6 +13,12 @@ export const metadata: Metadata = {
   description: site.description,
   alternates: { canonical: site.url },
 };
+
+const builtFor = [
+  'The Night 3 chapter explained why every previous attempt fell apart — and exactly what to do instead of quitting.',
+  'Built for breastfeeding moms, working parents, twins, single parents, and families where sleep training has already failed once.',
+  'Five methods covered in full. You choose the one that fits your family — the book never tells you to ignore a distressed baby.',
+];
 
 export default function HomePage() {
   return (
@@ -142,19 +147,25 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* ───────── TESTIMONIALS ───────── */}
+      {/* ───────── WHAT THE BOOK IS BUILT FOR ───────── */}
       <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:px-12">
         <div className="mx-auto max-w-2xl text-center">
           <p className="text-xs font-extrabold uppercase tracking-[0.24em] text-rose">
-            Real families
+            Why it works
           </p>
           <h2 className="mt-3 font-serif text-4xl font-semibold tracking-[-0.03em] text-wine2 sm:text-5xl">
-            From surviving to thriving
+            What this book is built for
           </h2>
         </div>
         <div className="mt-12 grid gap-6 md:grid-cols-3">
-          {testimonials.map((t) => (
-            <TestimonialCard key={t.name} testimonial={t} />
+          {builtFor.map((b) => (
+            <div
+              key={b}
+              className="relative rounded-3xl border border-rose/10 bg-white/85 p-8 shadow-card backdrop-blur"
+            >
+              <HeartIcon className="h-6 w-6 text-rose" />
+              <p className="mt-4 font-serif text-lg italic leading-7 text-cocoa">{b}</p>
+            </div>
           ))}
         </div>
       </section>
@@ -215,7 +226,7 @@ export default function HomePage() {
               </p>
               <p className="mt-5 inline-flex items-center gap-2 text-sm font-medium text-cocoa">
                 <HeartIcon className="h-5 w-5 text-rose" />
-                Join 1,000+ parents getting gentle sleep support.
+                Join the parents getting gentle sleep support tonight.
               </p>
             </div>
             <div className="rounded-2xl bg-white/70 p-6 shadow-card backdrop-blur">
